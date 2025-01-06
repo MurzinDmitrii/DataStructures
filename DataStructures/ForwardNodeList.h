@@ -3,7 +3,7 @@
 
 #include "ForwardNode.h"
 
-struct ForwardNodeList
+struct ForwardNodeList //в целом двухсвязный +- то же, реализация тривиальна
 {
     ForwardNode* first;
     ForwardNode* last;
