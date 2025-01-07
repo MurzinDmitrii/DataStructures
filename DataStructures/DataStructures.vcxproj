@@ -130,11 +130,13 @@
     <ClCompile Include="DataStructures.cpp" />
     <ClCompile Include="ForwardNode.cpp" />
     <ClCompile Include="ForwardNodeList.cpp" />
+    <ClCompile Include="Queue.cpp" />
     <ClCompile Include="Stack.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ForwardNode.h" />
     <ClInclude Include="ForwardNodeList.h" />
+    <ClInclude Include="Queue.h" />
     <ClInclude Include="Stack.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\DataStructures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|solutionrelative:DataStructures\\DataStructures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|solutionrelative:DataStructures\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|solutionrelative:DataStructures\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|solutionrelative:DataStructures\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\ForwardNodeList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|solutionrelative:DataStructures\\ForwardNodeList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\ForwardNode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|solutionrelative:DataStructures\\ForwardNode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\ForwardNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|solutionrelative:DataStructures\\ForwardNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|solutionrelative:DataStructures\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|solutionrelative:DataStructures\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\DataStructures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|solutionrelative:DataStructures\\DataStructures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,20 +50,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ForwardNode.h",
-              "DocumentMoniker": "C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\ForwardNode.h",
-              "RelativeDocumentMoniker": "DataStructures\\ForwardNode.h",
-              "ToolTip": "C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\ForwardNode.h",
-              "RelativeToolTip": "DataStructures\\ForwardNode.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-06T01:44:53.217Z",
+              "DocumentIndex": 1,
+              "Title": "ForwardNodeList.cpp",
+              "DocumentMoniker": "C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\ForwardNodeList.cpp",
+              "RelativeDocumentMoniker": "DataStructures\\ForwardNodeList.cpp",
+              "ToolTip": "C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\ForwardNodeList.cpp",
+              "RelativeToolTip": "DataStructures\\ForwardNodeList.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAGQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-07T14:09:29.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Queue.cpp",
+              "DocumentMoniker": "C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\Queue.cpp",
+              "RelativeDocumentMoniker": "DataStructures\\Queue.cpp",
+              "ToolTip": "C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\Queue.cpp",
+              "RelativeToolTip": "DataStructures\\Queue.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-07T13:54:40.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Queue.h",
+              "DocumentMoniker": "C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\Queue.h",
+              "RelativeDocumentMoniker": "DataStructures\\Queue.h",
+              "ToolTip": "C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\Queue.h",
+              "RelativeToolTip": "DataStructures\\Queue.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-07T13:53:19.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ForwardNode.cpp",
               "DocumentMoniker": "C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\ForwardNode.cpp",
               "RelativeDocumentMoniker": "DataStructures\\ForwardNode.cpp",
@@ -72,39 +102,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "DataStructures.cpp",
               "DocumentMoniker": "C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\DataStructures.cpp",
               "RelativeDocumentMoniker": "DataStructures\\DataStructures.cpp",
               "ToolTip": "C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\DataStructures.cpp",
               "RelativeToolTip": "DataStructures\\DataStructures.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-06T01:44:02.678Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Stack.cpp",
-              "DocumentMoniker": "C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\Stack.cpp",
-              "RelativeDocumentMoniker": "DataStructures\\Stack.cpp",
-              "ToolTip": "C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\Stack.cpp",
-              "RelativeToolTip": "DataStructures\\Stack.cpp",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowCEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-06T01:31:57.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Stack.h",
               "DocumentMoniker": "C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\Stack.h",
               "RelativeDocumentMoniker": "DataStructures\\Stack.h",
               "ToolTip": "C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\Stack.h",
               "RelativeToolTip": "DataStructures\\Stack.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-06T01:28:50.792Z",
               "EditorCaption": ""

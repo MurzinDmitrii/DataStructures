@@ -1,11 +1,13 @@
 ﻿#include <iostream>
 #include "ForwardNodeList.h"
 #include "Stack.h"
+#include "Queue.h"
 
 using namespace std;
 
 void usingForwardList() 
 {
+    cout << endl << "ForwardList:";
     ForwardNodeList list;
     for (int i = 0; i < 5; i++) {
         list.push_back(i);
@@ -22,6 +24,7 @@ void usingForwardList()
 
 void usingStack()
 {
+    cout << endl << "Stack:";
     Stack pt(3);
     pt.push(1);
     pt.push(2);
@@ -39,8 +42,37 @@ void usingStack()
     }
 }
 
+void usingQueue()
+{
+    cout << endl << "Queue:";
+    Queue q(5);
+
+    q.enqueue(1);
+    q.enqueue(2);
+    q.enqueue(3);
+
+    cout << "The front element is " << q.peek() << endl;
+    q.dequeue();
+
+    q.enqueue(4);
+
+    cout << "The queue size is " << q.size() << endl;
+
+    q.dequeue();
+    q.dequeue();
+    q.dequeue();
+
+    if (q.isEmpty()) {
+        cout << "The queue is empty\n";
+    }
+    else {
+        cout << "The queue is not empty\n";
+    }
+}
+
 int main()
 {
     usingForwardList();
     usingStack();
+    usingQueue();
 }
