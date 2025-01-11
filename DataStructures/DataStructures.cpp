@@ -2,6 +2,7 @@
 #include "ForwardNodeList.h"
 #include "Stack.h"
 #include "Queue.h"
+#include "BinarySearchTree.h"
 
 using namespace std;
 
@@ -70,9 +71,22 @@ void usingQueue()
     }
 }
 
+void usingBinarySearchTree()
+{
+    BinarySearchTree* tree = new BinarySearchTree();
+    tree->addItem(5);
+    tree->addItem(3);
+    tree->addItem(6);
+    tree->addItem(10);
+    tree->addItem(1);
+    BinarySearchTreeItem* findItem = tree->findItem(3);
+    BinarySearchTreeItem* unfindItem = tree->findItem(2);
+}
+
 int main()
 {
     usingForwardList();
     usingStack();
     usingQueue();
+    usingBinarySearchTree();
 }
