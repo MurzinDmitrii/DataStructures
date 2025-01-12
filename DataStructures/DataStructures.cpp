@@ -88,8 +88,14 @@ void usingBinaryHeap()
 {
     BinaryHeap* heap = new BinaryHeap();
     cout << endl << "Binary heap:";
+    int n = 0;
     for (int i = 0; i < 16; i++)
     {
+        if (i == pow(2, n) - 1)
+        {
+            n++;
+            cout << endl;
+        }
         cout << heap->heap[i] << " ";
     }
 }
