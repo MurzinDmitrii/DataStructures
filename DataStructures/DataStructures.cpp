@@ -3,6 +3,7 @@
 #include "Stack.h"
 #include "Queue.h"
 #include "BinarySearchTree.h"
+#include "BinaryHeap.h"
 
 using namespace std;
 
@@ -83,10 +84,21 @@ void usingBinarySearchTree()
     BinarySearchTreeItem* unfindItem = tree->findItem(2);
 }
 
+void usingBinaryHeap()
+{
+    BinaryHeap* heap = new BinaryHeap();
+    cout << endl << "Binary heap:";
+    for (int i = 0; i < 16; i++)
+    {
+        cout << heap->heap[i] << " ";
+    }
+}
+
 int main()
 {
     usingForwardList();
     usingStack();
     usingQueue();
     usingBinarySearchTree();
+    usingBinaryHeap();
 }
