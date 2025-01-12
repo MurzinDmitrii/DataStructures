@@ -133,6 +133,7 @@
     <ClCompile Include="DataStructures.cpp" />
     <ClCompile Include="ForwardNode.cpp" />
     <ClCompile Include="ForwardNodeList.cpp" />
+    <ClCompile Include="HashTable.cpp" />
     <ClCompile Include="Queue.cpp" />
     <ClCompile Include="Stack.cpp" />
   </ItemGroup>
@@ -142,6 +143,7 @@
     <ClInclude Include="BinarySearchTreeItem.h" />
     <ClInclude Include="ForwardNode.h" />
     <ClInclude Include="ForwardNodeList.h" />
+    <ClInclude Include="HashTable.h" />
     <ClInclude Include="Queue.h" />
     <ClInclude Include="Stack.h" />
   </ItemGroup>

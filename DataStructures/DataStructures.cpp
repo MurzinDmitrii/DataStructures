@@ -4,6 +4,7 @@
 #include "Queue.h"
 #include "BinarySearchTree.h"
 #include "BinaryHeap.h"
+#include "HashTable.h"
 
 using namespace std;
 
@@ -100,6 +101,26 @@ void usingBinaryHeap()
     }
 }
 
+int usingHashTable() {
+    cout << endl << "Hash table:";
+    HashTable hashTable(7);
+
+    hashTable.insertItem(1, "apple");
+    hashTable.insertItem(2, "banana");
+    hashTable.insertItem(10, "mango");
+    hashTable.insertItem(15, "grape");
+
+    hashTable.displayTable();
+
+    std::cout << "Search key 10: " << hashTable.searchItem(10) << std::endl;
+
+    hashTable.removeItem(2);
+    hashTable.displayTable();
+
+    return 0;
+}
+
+
 int main()
 {
     usingForwardList();
@@ -107,4 +128,5 @@ int main()
     usingQueue();
     usingBinarySearchTree();
     usingBinaryHeap();
+    usingHashTable();
 }

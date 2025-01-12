@@ -7,8 +7,16 @@
       "RelativeMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|solutionrelative:DataStructures\\DataStructures.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\HashTable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|solutionrelative:DataStructures\\HashTable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\BinaryHeap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|solutionrelative:DataStructures\\BinaryHeap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\HashTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|solutionrelative:DataStructures\\HashTable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{804C885D-B226-45B8-8CFF-58A6D5E45A6A}|DataStructures\\DataStructures.vcxproj|C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\BinaryHeap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -22,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +46,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "HashTable.cpp",
+              "DocumentMoniker": "C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\HashTable.cpp",
+              "RelativeDocumentMoniker": "DataStructures\\HashTable.cpp",
+              "ToolTip": "C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\HashTable.cpp",
+              "RelativeToolTip": "DataStructures\\HashTable.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-12T19:22:26.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HashTable.h",
+              "DocumentMoniker": "C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\HashTable.h",
+              "RelativeDocumentMoniker": "DataStructures\\HashTable.h",
+              "ToolTip": "C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\HashTable.h",
+              "RelativeToolTip": "DataStructures\\HashTable.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-12T15:07:19.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "BinaryHeap.cpp",
               "DocumentMoniker": "C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\BinaryHeap.cpp",
               "RelativeDocumentMoniker": "DataStructures\\BinaryHeap.cpp",
@@ -46,12 +80,11 @@
               "RelativeToolTip": "DataStructures\\BinaryHeap.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-12T11:17:27.166Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-12T11:17:27.166Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "BinaryHeap.h",
               "DocumentMoniker": "C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\BinaryHeap.h",
               "RelativeDocumentMoniker": "DataStructures\\BinaryHeap.h",
@@ -70,7 +103,7 @@
               "RelativeDocumentMoniker": "DataStructures\\DataStructures.cpp",
               "ToolTip": "C:\\Users\\Dmitrii\\source\\repos\\DataStructures\\DataStructures\\DataStructures.cpp*",
               "RelativeToolTip": "DataStructures\\DataStructures.cpp*",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAF0AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAAAGgAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-06T01:44:02.678Z",
               "EditorCaption": ""
